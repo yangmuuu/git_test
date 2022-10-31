@@ -1,0 +1,29 @@
+### spring template
+# yangmuuu
+*.iml
+*.bak
+*.class
+*.rar
+*.log
+*.project
+*.setting
+*.classpath
+*.DS_Store
+hs_err_pid*
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+
+.idea
+.mtj.tmp/
+log
+logs
+out
+gen
+target
+build
+lib
+classes
